@@ -1,16 +1,8 @@
-# eventapp
+# Events App
 
 A new Flutter project.
 
-## Getting Started
+## ScreenShot Video
 
-This project is a starting point for a Flutter application.
+https://github.com/anzjoxavier/EventAppAssignment/assets/116029351/ec3be279-df51-4cc7-bf55-f9dfef904546
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
